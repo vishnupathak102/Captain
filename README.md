@@ -1,1 +1,2 @@
 # Captain
+print "hello world";
